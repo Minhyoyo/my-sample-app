@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-sample-app
-        image: 192.168.20.56/demo-project/my-sample-app:v1
+        image: nguyentrachminh/my-sample-app:latest
         ports:
         - containerPort: 5000
