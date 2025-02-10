@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: my-sample-app
-        image: nguyentrachminh/my-sample-app:v7
+        image: nguyentrachminh/my-sample-app:v8
         ports:
         - containerPort: 5000
