@@ -23,4 +23,4 @@ jobs:
       with:
         context: .
         push: true
-        tags: nguyentrachminh/my-sample-app:v8
+        tags: nguyentrachminh/my-sample-app:v9
